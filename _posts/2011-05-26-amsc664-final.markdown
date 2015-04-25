@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Advanced Scientific Computation: Final Project"
+date:       2011-05-26 12:00:00
+author:     "Tyler Drombosky"
+header-img: "img/post-bg-01.jpg"
+---
+
+My scientific computation project's final report has been posted. The final report covers the derivation, computational methods, and error analysis for the numerical Dual Reciprocity Boundary Element Method.
+
+[View the final report.]({{ site.baseurl }}/paper/dromboskyfinal.pdf)
+
+<img src="{{ site.baseurl }}/img/dromboskyfinal.jpg">
+<span class="caption">Cooling caused by three spheres drop in the center of a warm fluid. The three grains have an aggregate effect in cooling the more fluid compared to a single, larger grain.</span>

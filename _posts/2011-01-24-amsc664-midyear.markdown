@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Advanced Scientific Computation: Midyear"
+date:       2011-01-24 12:00:00
+author:     "Tyler Drombosky"
+header-img: "img/post-bg-01.jpg"
+---			
+
+My scientific computation project's midyear report has been posted. The first half of the project was focuses on merging two existing Boundary Element Method solvers. The code was cleaned and optimized in preparation for adding Dual Reciprocity Code.
+
+[View the midyear report.]({{ site.baseurl }}/paper/dromboskymidyear.pdf)
+
+<img style="margin-left: auto; margin-right: auto;" height="225" width="600" src="{{ site.baseurl }}/img/dromboskymidyear.jpg">
+<span class="caption">The discretization of three grain boundaries that are tangent. The tangent and normal vectors of the interpolation are plotted at the knots.</span>

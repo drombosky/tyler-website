@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "AGU 2012"
+date:       2013-01-02 12:00:00
+author:     "Tyler Drombosky"
+header-img: "img/post-bg-01.jpg"
+---
+
+A new Fast Multipole Boundary Element Method code was created to simulate the interaction between Ultralow Velocity Zone patches (ULVZ) and the core-mantle boundary (CMB).  Initial research investigates the interaction between the CMD and ULVZ patches in the presence of a buoyancy force for various viscosities.  The research also examines the ability to keep dense ULVZ patches suspended in a mantle by a driving convection force over geological time.  Future research will combine all forces into one simulation to search for parameters required to keep ULVZ patches geologically stable.
+
+A short video including the simulations is embedded below, as well as a link to the presentation slides from the 2012 AGU Fall Meeting, Abstract DI22A-08.
+
+[View the slides.]({{ site.baseurl }}/paper/agu12.pdf)
+
+<div style="text-align:center">
+<iframe src="http://www.youtube.com/embed/dGg95h1RNmI
+" frameborder="0" allowfullscreen>
+</iframe>
+</div>

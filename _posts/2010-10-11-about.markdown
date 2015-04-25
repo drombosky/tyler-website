@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "About Me"
+date:       2010-10-11 12:00:00
+author:     "Tyler Drombosky"
+header-img: "img/post-bg-01.jpg"
+---
+
+I am currently working on my Ph.D. with Professor [Saswata Hier-Majumder](https://pure.royalholloway.ac.uk/portal/en/persons/saswata-hiermajumder%28fda1c2a6-2cc7-40be-8527-5d6715c8260f%29.html) in the [Department of Geology](http://www.geol.umd.edu) at the [University of Maryland](http://www.umd.edu). My research is focused on computational fluid dynamics with applications to geophysics.  Ultimately, I will develop a modular, optimized, and highly scalable library for solving partial differential equations using the Dual Reciprocity Boundary Element method.  This will allow for complex modeling of magma oceans.
+		
+<img style="margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/img/research.jpg">
+<span class="caption">Analytical solutions for a single cool grain in a flowing warm and viscous fluid.</span>	

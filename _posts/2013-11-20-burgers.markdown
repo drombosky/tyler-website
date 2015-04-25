@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Burgers Program for Fluid Dynamics"
+date:       2013-11-20 12:00:00
+author:     "Tyler Drombosky"
+header-img: "img/post-bg-01.jpg"
+---
+
+I presented the current state of my research in a student poster session during the tenth annual [Burgers Program for Fluid Dynamics](http://www.burgers.umd.edu) at the University of Maryland: College Park.
+The poster presented the continued to ability scale my Fast Multipole Boundary Element Method code to handle more particles.  With a grant from [XSEDE](http://www.xsede.org), I have been able to run hundreds of simulations, each containing thousands of particles.  For these specific simulations, we are analyzing the contiguity of a grain matrix when it is exposed to shear stresses. 
+
+[View the poster.]({{ site.baseurl }}/paper/burgers.pdf)
+
+<img src="{{ site.baseurl }}/img/shear_contig.png">
+<span class="caption">The hot colors show high anisotropy of a grain's contiguity tensor while cool colors indicate the tensor is nearly isotropic.</span>

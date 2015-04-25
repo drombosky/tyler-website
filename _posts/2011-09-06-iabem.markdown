@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "IABEM 2011"
+date:       2011-09-06 12:00:00
+author:     "Tyler Drombosky"
+header-img: "img/post-bg-01.jpg"
+---
+
+The new DRBEM approach for solving the energy conservation equation in the whole space was presented at the [Symposium of the International Association for Boundary Element Method](http://www.iabem2011.it/online/) hosted by University of Brescia in Bresica, Italy.
+
+[View the slides.]({{ site.baseurl }}/paper/iabem.pdf)
+
+<img style="margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/img/iabem.jpg">
