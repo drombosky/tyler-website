@@ -1,6 +1,8 @@
 ---
 layout:     post
 title:      "Advanced Scientific Computation: Midyear"
+subtitle:   "My scientific computation project's midyear report has been posted. The first half of the project was focuses on merging 
+two existing Boundary Element Method solvers."
 date:       2011-01-24 12:00:00
 author:     "Tyler Drombosky"
 header-img: "img/post-bg-01.jpg"

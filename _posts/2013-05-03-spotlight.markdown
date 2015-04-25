@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Spotlight on Student Research"
+subtitle:   "The Department of Mathematics held their 2013 Spotlight on Student Research talks this past Wednesday and Thursday where I won the Seymour Goldberg Gold Medal for outstanding presentation.  I presented an updated research summary on my Fast Multipole Boundary Element Method code and it's ability to run long simulations involving dozens of particles."
 date:       2013-05-03 12:00:00
 author:     "Tyler Drombosky"
 header-img: "img/post-bg-01.jpg"

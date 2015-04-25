@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Advanced Scientific Computation: Final Project"
+subtitle:   "My scientific compuation project&#39s final report has been posted. The final report covers the derivation, compuational methods, and error analysis for the numerical Dual Reciprocity Boundary Element Method."
 date:       2011-05-26 12:00:00
 author:     "Tyler Drombosky"
 header-img: "img/post-bg-01.jpg"

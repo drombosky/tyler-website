@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "AGU 2011"
+subtitle:   "The new DRBEM approach for solving the energy conservation equation in the whole space was presented at the 2011 Fall AGU Meeting hosted in San Francisco."
 date:       2011-12-06 12:00:00
 author:     "Tyler Drombosky"
 header-img: "img/post-bg-01.jpg"

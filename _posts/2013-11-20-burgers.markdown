@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Burgers Program for Fluid Dynamics"
+subtitle:   "I presented the current state of my research in a student poster session during the tenth annual Burgers Program for Fluid Dynamics at the University of Maryland: College Park. The poster presented the continued to ability scale my Fast Multipole Boundary Element Method code to handle more particles.  With a grant from XSEDE, I have been able to run hundreds of simulations, each containing thousands of particles.  For these specific simulations, we are analyzing the contiguity of a grain matrix when it is exposed to shear stresses."
 date:       2013-11-20 12:00:00
 author:     "Tyler Drombosky"
 header-img: "img/post-bg-01.jpg"

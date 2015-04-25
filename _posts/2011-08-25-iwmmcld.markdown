@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Workshop on Mantle Convection and Lithospheric Dynamics"
+subtitle:   "The current state of research was presented at the 12th International Workshop on Modeling of Mantle Convection and Lithospheric Dynamics hosted by Postdam GFZ in Groß Dölln Germany. A poster presentation was made and well received."
 date:       2011-08-24 12:00:00
 author:     "Tyler Drombosky"
 header-img: "img/post-bg-01.jpg"
